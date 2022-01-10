@@ -1,11 +1,11 @@
 # Crypto-101
 
 
-###Security Recommends:
+### Security Recommends:
   - [1Password](https://1password.com) - Password manager
     - Mobile ([Android](https://play.google.com/store/apps/details?id=com.agilebits.onepassword&hl=en_US&gl=US),[IOS](https://1password.com/downloads/ios))
 
-###Platforms:
+### Platforms:
   - [Coinbase](https://www.coinbase.com) - Cryptocurrency exchange qnd digital wallet
     - Web
     - Mobile ([Android](https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en_US&gl=US), [IOS](https://apps.apple.com/us/app/coinbase-buy-bitcoin-ether/id886427730))
@@ -15,9 +15,15 @@
   - [crypto.com](https://crypto.com)
     - Web
     - Mobile ([Android](https://play.google.com/store/apps/details?id=co.mona.android&hl=en_US&gl=US), [IOS](https://apps.apple.com/us/app/crypto-com-buy-btc-eth-shib/id1262148500))
-  - Kranken Pro
-    - Web, Mobile (Android, IOS)
+  - [Kranken](https://www.kraken.com))
+    - Web
+    - Mobile ([Android](https://play.google.com/store/apps/details?id=com.kraken.invest.app&hl=en_US&gl=US), [IOS](https://apps.apple.com/us/app/kraken-pro/id1473024338))
 
-###Words and Terminologies:
+
+### NFT Market Places
+  - [OpenSea](https://opensea.io)
+  - [Rarible](https://rarible.com)
+
+### Words and Terminologies:
  - KYC - Know your customer
 
