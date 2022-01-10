@@ -5,11 +5,11 @@
   - [1Password](https://1password.com) - Password manager
     - Mobile ([Android](https://play.google.com/store/apps/details?id=com.agilebits.onepassword&hl=en_US&gl=US),[IOS](https://1password.com/downloads/ios))
 
-### Platforms:
-  - [Coinbase](https://www.coinbase.com) - Cryptocurrency exchange qnd digital wallet
+### Cryptocurrency Exchanges:
+  - [Coinbase](https://www.coinbase.com)
     - Web
     - Mobile ([Android](https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en_US&gl=US), [IOS](https://apps.apple.com/us/app/coinbase-buy-bitcoin-ether/id886427730))
-  - [Binance](https://www.binance.us/en/home) - Cryptocurrency exchange qnd digital wallet
+  - [Binance](https://www.binance.us/en/home)
     - Web
     - Mobile ([Android](https://play.google.com/store/apps/details?id=com.binance.dev&hl=en_US&gl=US), [IOS](https://apps.apple.com/us/app/binance-buy-bitcoin-crypto/id1436799971))
   - [crypto.com](https://crypto.com)
@@ -18,11 +18,28 @@
   - [Kranken](https://www.kraken.com))
     - Web
     - Mobile ([Android](https://play.google.com/store/apps/details?id=com.kraken.invest.app&hl=en_US&gl=US), [IOS](https://apps.apple.com/us/app/kraken-pro/id1473024338))
+  - [eToro](https://www.etoro.com/en-us)
+    - Web
+    - Mobile ([Android]()[IOS]())
 
+### Hardware Wallet:
+  - [Ledger](https://www.ledger.com)
+
+### Digital Wallets:
+  - [BigOne](https://big.one)
+  - [Delta](https://delta.app)
+  - [Klever](https://klever.io)
+  - [MetaMask](https://metamask.io)
+  - [MyEtherWallet](https://www.myetherwallet.com)
+  - [TronLink](https://www.tronlink.org)
+  - [Trust](https://trustwallet.com)
+  - [imToken](https://token.im)
 
 ### NFT Market Places
   - [OpenSea](https://opensea.io)
   - [Rarible](https://rarible.com)
+
+
 
 ### Words and Terminologies:
   - KYC - Know your customer
